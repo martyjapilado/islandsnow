@@ -10,8 +10,10 @@
 }
 
 .grey-background {
-  background-color: lightgray;
-  height: 200px;
+  background-color: #292929;
+  color: white;
+  padding-bottom: 20px;
+  padding-top: 20px;
 }
 
 .white-background {
